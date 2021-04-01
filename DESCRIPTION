@@ -4,7 +4,7 @@ Title: Create a pretty xlsx correlation matrix with sig values
 Version: 0.1.0
 Author: better not to tell anyone
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: The package should never be used in any real situation for it creates a false sense of sequrity, which should not be present when you correlate everything without pin-point accuracy.    However, it does provie a Benjamini-Hochberg correction function, if situation really forces you do use such unholy methods in your research
+Description: The package should never be used in any real situation for it creates a false sense of sequrity, which should not be present when you correlate everything without pinpoint accuracy.    However, it does provie a Benjamini-Hochberg correction function, if situation really forces you do use such unholy methods in your research
 License: Creative commons
 Encoding: UTF-8
 LazyData: true
