@@ -1,8 +1,9 @@
 # corall
 
 I've created this package with two main goals in mind: 
-- Firstly, to write something blazing-fast in pure R, only calling C functions when it's literally the way it's implemented in R/stats. Anybody can write all the code in C++, but where's fun in that? This project was supposed to teach me to write better R code, not C++
+- Firstly, to write something blazing-fast in pure R, only calling C functions when it's literally the way it's implemented in R/stats. Anybody can write all the code in C++, but where's fun in that? This project was supposed to teach me to write better R code, not C++.
 - Secondly, to make life easier for me and my friends when it comes to doing *less-than-favourite* research under the watchful eye of a supervisor that might only approve the simplest (if not the weakest) statistical methods. 
+
 I definitely succeeded with that second part, and the first one is 50/50. The thing produces 500^2 values in 5 seconds, so, definitely not the fastest in the world, but considerably faster than vanilla user-level R. A little bit of prettiness in the results on top of that, and, I'm kind of satisfied.
 
 ## What does it do?
