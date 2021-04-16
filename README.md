@@ -18,5 +18,7 @@ All steps except the first one can be customised or skipped, correlation methods
 
 Speaking of things that I love, this package was brought to you with lots of ❤️ and lack of 😴, dear user. Enjoy but don't overdo it :)
 
+(if you only want to see the source code, i've put it in the "src" branch just for the sake of it)
+
 ## The output looks something like this
 ![image](https://user-images.githubusercontent.com/53195438/113226005-c6535880-9297-11eb-99b3-fbd3a2d9d80b.png)
