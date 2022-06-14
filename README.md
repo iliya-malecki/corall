@@ -16,9 +16,7 @@ I definitely succeeded with that second part, and the first one is 50/50. The th
 
 All steps except the first one can be customised or skipped, correlation methods are customisable as well, everything is made to save time and nerves - nobody likes doing these unholy correlations instead of actual research, so the faster it is done, the better. Maybe a hard refresh of the education system would be the best, but I'd rather spend my time writing R code, I love it.
 
-Speaking of things that I love, this package was brought to you with lots of ❤️ and lack of 😴, dear user. Enjoy but don't overdo it :)
-
-(if you only want to see the source code, i've put it in the "src" branch just for the sake of it)
+### Edit: please do not trust vba on the internet, what i have a year ago done should be considered a crime.
 
 ## The output looks something like this
 ![image](https://user-images.githubusercontent.com/53195438/113226005-c6535880-9297-11eb-99b3-fbd3a2d9d80b.png)
